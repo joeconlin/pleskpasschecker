@@ -1,1 +1,8 @@
 Plesk Password Checker
+12/16/2011 - Joe Conlin
+
+This is a simple script that leverages the Plesk mail auth utility for dumping mail user accounts and passwords from the Plesk database as well as cracklib for password quality checking. Not too many bells and whistles on this script for now, but I will perhaps add hooks to email notifications to the users with weak passwords.
+
+Usage:
+
+$ sh pleskpasswordchecker.sh
