@@ -6,3 +6,5 @@ This is a simple script that leverages the Plesk mail auth utility for dumping m
 Usage:
 
 $ sh pleskpasswordchecker.sh
+
+Note - I've only tested this on Plesk 8.6 for Linux. YMMV
